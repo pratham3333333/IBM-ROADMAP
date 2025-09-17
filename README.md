@@ -1,6 +1,6 @@
 
 
-# 🤖 Artificial Intelligence & Machine Learning (Beginner Module)
+# 🤖 Artificial Intelligence & Machine Learning
 
 This is your **first learning module** on Artificial Intelligence (AI) and Machine Learning (ML). Everything is explained with **examples and flowcharts** so you can easily understand.
 
