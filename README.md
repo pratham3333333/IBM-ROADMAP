@@ -156,7 +156,7 @@ flowchart TD
     C --> C2[Image Recognition for Photos]
 ```
 
----
+--- 
 
 ## 7. 🎲 Probabilistic Calculations
 
