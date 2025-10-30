@@ -11,6 +11,8 @@ This is your **first learning module** on Artificial Intelligence (AI) and Machi
 ![WhatsApp Image 2025-09-16 at 21 49 00_9d1ca45e](https://github.com/user-attachments/assets/c04fc625-0285-4517-8d30-4c554c498c6f)
 ![WhatsApp Image 2025-09-16 at 21 49 50_92ba6078](https://github.com/user-attachments/assets/3c99ddc7-518f-4f29-8558-e86752cca674)
 ![WhatsApp Image 2025-09-16 at 21 49 33_154e29a3](https://github.com/user-attachments/assets/fbf8849c-38b4-4844-b9ce-91afd59d61a1)
+![WhatsApp Image 2025-09-16 at 21 51 17_5d7ae378](https://github.com/user-attachments/assets/9a5382cf-e143-44ea-a7b5-ab19c92b5f6c)
+
 
 ![WhatsApp Image 2025-09-16 at 21 51 32_85eed454](https://github.com/user-attachments/assets/288970ca-537b-4462-b909-71255ed2dfd6)
 
